@@ -11,12 +11,17 @@
 </div>
 
 ---
-
 ## 🌟 Overview
 
 Horse Racing Analysis is a professional-grade web application designed to solve one of the most complex challenges in racing: **analyzing the correlation between track conditions and performance.**
 
 By automating the collection of moisture and cushion values directly from JRA sites, this tool provides a high-precision, visual environment for data-driven decision making.
+
+<div align="center">
+  <img src="https://github.com/code-craftsman369/horse-racing-analysis-app/blob/main/01R_all.png?raw=true" alt="Analysis Dashboard Preview" width="800">
+  <br>
+  <em>High-precision correlation analysis showing track moisture vs. cushion values</em>
+</div>
 
 ---
 
